@@ -25,3 +25,13 @@ Wie ist das entstanden?
 Nochmal drauf eingehen das JS ja kleine gestartet ist und dann immer mehr wurde, so das auch der wunsch nach modulen größer wurde damit der code strukturiert werden kann usw.
 
 ## Day 2
+### Filesystem -> sync und async mit callbacks
+Wir sprechen über synchron und asynchron. Dafür nutzen wir das 'fs' Module von Node.
+Funktionen als Parameter -> Funktionen sind in Javascript First Class Citizien
+Da wir Funktionen einfach in Variabeln speichern können, können wir sie auch als argumente an Funktionen übergeben.
+
+Ab hier habe ich auch immer regelmässig auf die Node Dokumentation verwiesen, irgendwie vergessen die Teilnehmer immer wieder das es sowas gibt.
+
+Dran denken das wir keine Promises nutzen sondern erstmal die ganzen Funktionen, die ein callback nutzen.
+
+## Day 3
